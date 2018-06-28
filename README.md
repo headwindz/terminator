@@ -1,5 +1,6 @@
 # terminator
-The ultimate terminal plugins to boost your productivity
+
+All you need to have to make full use of your terminal to boost productivity.
 
 ## Vim
 
