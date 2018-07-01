@@ -12,20 +12,24 @@ Everything about my terminal which boots my productivity as a front end develope
 ## File System
 * [autojump](https://github.com/wting/autojump): navigate your filesystem based on learning your preferences.
 * [pm](https://github.com/Angelmmiguel/pm): the easy way to switch between your projects on ZSH
+* [colorls](https://github.com/athityakumar/colorls): beautiful alternative for ls command, with color and font-awesome icons
 
 ## Http
 * [httpie](https://github.com/jakubroztocil/httpie/): user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions.
 
 ## Utility
 * [tldr](https://github.com/raylee/tldr): simplified MAN page with examples.
-* [cheet](https://github.com/chrisallenlane/cheat): manage cheet sheet in command line.
+* [cheat](https://github.com/chrisallenlane/cheat): manage cheat sheet in command line.
 * [thefuck](https://github.com/nvbn/thefuck): magnificent app which corrects your previous console command.
 * [googler](https://github.com/jarun/googler): google from the terminal
-* [jq](https://github.com/stedolan/jq): command-line JSON processor
 * [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli): empty the trash
+
+## Data Processing
+* [jq](https://github.com/stedolan/jq): command-line JSON processor
 
 ## System
 * [glances](https://github.com/nicolargo/glances): interative process viewer, replacement for htop/top.
+* [brightness-cli](https://github.com/kevva/brightness-cli): change the screen brightness from terminal.
 
 ## Database
 * [mycli](https://github.com/dbcli/mycli): terminal client for MySQL
