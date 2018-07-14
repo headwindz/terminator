@@ -27,7 +27,7 @@ Everything about my terminal which boots my productivity as a front end develope
 
 ## Data Processing
 * [jq](https://github.com/stedolan/jq): command-line JSON processor
-
+* [emoj](https://github.com/sindresorhus/emoj): find relevant emoji from text on the command-line
 ## System
 * [gtop](https://github.com/aksakalli/gtop): system monitoring dashboard for terminal
 * [glances](https://github.com/nicolargo/glances): interative process viewer, replacement for htop/top.
