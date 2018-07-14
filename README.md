@@ -14,6 +14,7 @@ Everything about my terminal which boots my productivity as a front end develope
 * [autojump](https://github.com/wting/autojump): navigate your filesystem based on learning your preferences.
 * [colorls](https://github.com/athityakumar/colorls): beautiful alternative for ls command, with color and font-awesome icons
 * [silver search](https://github.com/ggreer/the_silver_searcher): a code-searching tool similar to ack, but faster 
+
 ## Http
 * [httpie](https://github.com/jakubroztocil/httpie/): user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions.
 
@@ -31,6 +32,7 @@ Everything about my terminal which boots my productivity as a front end develope
 * [gtop](https://github.com/aksakalli/gtop): system monitoring dashboard for terminal
 * [glances](https://github.com/nicolargo/glances): interative process viewer, replacement for htop/top.
 * [brightness-cli](https://github.com/kevva/brightness-cli): change the screen brightness from terminal.
+* [nnn](https://github.com/jarun/nnn): the fastest terminal file browser ever written. 
 
 ## Database
 * [mycli](https://github.com/dbcli/mycli): terminal client for MySQL
