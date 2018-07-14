@@ -13,7 +13,7 @@ Everything about my terminal which boots my productivity as a front end develope
 ## File System
 * [autojump](https://github.com/wting/autojump): navigate your filesystem based on learning your preferences.
 * [colorls](https://github.com/athityakumar/colorls): beautiful alternative for ls command, with color and font-awesome icons
-
+* [silver search](https://github.com/ggreer/the_silver_searcher): a code-searching tool similar to ack, but faster 
 ## Http
 * [httpie](https://github.com/jakubroztocil/httpie/): user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions.
 
