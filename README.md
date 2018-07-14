@@ -4,6 +4,7 @@ Everything about my terminal which boots my productivity as a front end develope
 
 ## Vim
 * [vimrc](https://github.com/amix/vimrc): best-to-have hand-in vim config.
+* [vimium](https://github.com/philc/vimium): the hacker's browser - though not related to terminal. 
 
 ## Shell
 * [zsh](https://www.zsh.org/): my favourite shell.
@@ -11,7 +12,6 @@ Everything about my terminal which boots my productivity as a front end develope
 
 ## File System
 * [autojump](https://github.com/wting/autojump): navigate your filesystem based on learning your preferences.
-* [pm](https://github.com/Angelmmiguel/pm): the easy way to switch between your projects on ZSH
 * [colorls](https://github.com/athityakumar/colorls): beautiful alternative for ls command, with color and font-awesome icons
 
 ## Http
@@ -28,6 +28,7 @@ Everything about my terminal which boots my productivity as a front end develope
 * [jq](https://github.com/stedolan/jq): command-line JSON processor
 
 ## System
+* [gtop](https://github.com/aksakalli/gtop): system monitoring dashboard for terminal
 * [glances](https://github.com/nicolargo/glances): interative process viewer, replacement for htop/top.
 * [brightness-cli](https://github.com/kevva/brightness-cli): change the screen brightness from terminal.
 
