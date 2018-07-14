@@ -37,4 +37,5 @@ Everything about my terminal which boots my productivity as a front end develope
 
 ## Just for fun
 * [cowsay](https://github.com/piuccio/cowsay): configurable talking cow~
-* [lolcat](https://github.com/busyloop/lolcat): replacement for cat with colorful output. 
+* [figlet](http://www.figlet.org/): a program for making large letters out of ordinary text 
+* [lolcat](https://github.com/busyloop/lolcat): replacement for cat with colorful output 
