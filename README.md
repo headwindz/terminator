@@ -24,6 +24,7 @@ Everything about my terminal which boots my productivity as a front end develope
 * [thefuck](https://github.com/nvbn/thefuck): magnificent app which corrects your previous console command.
 * [googler](https://github.com/jarun/googler): google from the terminal
 * [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli): empty the trash
+* [taskbook](https://github.com/klauscfhq/taskbook): tasks, boards & notes for the command-line habitat 
 
 ## Data Processing
 * [jq](https://github.com/stedolan/jq): command-line JSON processor
