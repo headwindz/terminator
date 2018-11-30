@@ -3,7 +3,7 @@
 Everything about my terminal which boots my productivity as a front end developer!
 
 ## Vim
-* [vimrc](https://github.com/amix/vimrc): best-to-have hand-in vim config.
+* [spacevim](https://spacevim.org): The ultimate vim configuration 
 * [vimium](https://github.com/philc/vimium): the hacker's browser - though not related to terminal. 
 
 ## Shell
@@ -24,19 +24,28 @@ Everything about my terminal which boots my productivity as a front end develope
 * [thefuck](https://github.com/nvbn/thefuck): magnificent app which corrects your previous console command.
 * [googler](https://github.com/jarun/googler): google from the terminal
 * [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli): empty the trash
-* [taskbook](https://github.com/klauscfhq/taskbook): tasks, boards & notes for the command-line habitat 
+* [taskbook](https://github.com/klauscfhq/taskbook): tasks, boards & notes for the command-line habitat
+* [fzf](https://github.com/junegunn/fzf): command-line fuzzy finder
+* [ack](https://beyondgrep.com/): grep substitue
 
 ## Data Processing
 * [jq](https://github.com/stedolan/jq): command-line JSON processor
 * [emoj](https://github.com/sindresorhus/emoj): find relevant emoji from text on the command-line
+
 ## System
 * [gtop](https://github.com/aksakalli/gtop): system monitoring dashboard for terminal
+* [htop](http://hisham.hm/htop/index.php): interactive process viewer
 * [glances](https://github.com/nicolargo/glances): interative process viewer, replacement for htop/top.
 * [brightness-cli](https://github.com/kevva/brightness-cli): change the screen brightness from terminal.
-* [nnn](https://github.com/jarun/nnn): the fastest terminal file browser ever written. 
+* [ncdu](https://dev.yorhel.nl/ncdu): disk usage analyzer with an ncurses interface
 
 ## Database
 * [mycli](https://github.com/dbcli/mycli): terminal client for MySQL
+
+## Network
+
+* [prettyping](http://denilson.sa.nom.br/prettyping/): a wrapper around the standard ping tool, making the output prettier, more colorful, more compact, and easier to read
+
 
 ## Just for fun
 * [cowsay](https://github.com/piuccio/cowsay): configurable talking cow~
