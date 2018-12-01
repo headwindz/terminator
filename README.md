@@ -13,7 +13,8 @@ Everything about my terminal which boots my productivity as a front end develope
 ## File System
 * [autojump](https://github.com/wting/autojump): navigate your filesystem based on learning your preferences.
 * [colorls](https://github.com/athityakumar/colorls): beautiful alternative for ls command, with color and font-awesome icons
-* [silver search](https://github.com/ggreer/the_silver_searcher): a code-searching tool similar to ack, but faster 
+* [silver search](https://github.com/ggreer/the_silver_searcher): a code-searching tool similar to ack, but faster
+* [cloc](http://cloc.sourceforge.net/): blank lines, comment lines, and physical lines of source code counter 
 
 ## Http
 * [httpie](https://github.com/jakubroztocil/httpie/): user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions.
@@ -51,5 +52,6 @@ Everything about my terminal which boots my productivity as a front end develope
 * [cowsay](https://github.com/piuccio/cowsay): configurable talking cow~
 * [ponysay](https://github.com/erkin/ponysay): pony rewrite of cowsay
 * [figlet](http://www.figlet.org/): a program for making large letters out of ordinary text 
-* [lolcat](https://github.com/busyloop/lolcat): replacement for cat with colorful output 
+* [lolcat](https://github.com/busyloop/lolcat): replacement for cat with colorful output
+* [cmatrix](https://github.com/abishekvashok/cmatrix): terminal screen saver
 
