@@ -54,4 +54,4 @@ Everything about my terminal which boots my productivity as a front end develope
 * [figlet](http://www.figlet.org/): a program for making large letters out of ordinary text 
 * [lolcat](https://github.com/busyloop/lolcat): replacement for cat with colorful output
 * [cmatrix](https://github.com/abishekvashok/cmatrix): terminal screen saver
-
+* [boxes](https://github.com/ascii-boxes/boxes): command line ASCII boxes unlimited!
